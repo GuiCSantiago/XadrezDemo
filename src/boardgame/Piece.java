@@ -6,7 +6,7 @@ public class Piece {
 	private Board board;
 	
 	public Piece(Board board) {
-		position = null
+		position = null;
 		this.board = board;
 	}
 	
